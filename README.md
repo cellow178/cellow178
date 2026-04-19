@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏫  Student from SMK Negeri 7 Semarang<br>✨ Creating bugs since 2023<br>📚 Currently learning ReactJS</p>
+<p align="left">🏫  Student from SMK Negeri 7 Semarang<br>✨ Creating bugs since 2023<br>📚 Currently learning Vue.js</p>
 
 ###
 
